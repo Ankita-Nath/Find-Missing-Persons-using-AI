@@ -1,0 +1,10 @@
+scikit-learn==1.2.1
+st_pages==0.3.4
+psycopg2-binary==2.9.5
+pandas==1.5.3
+numpy==1.24.1
+streamlit-authenticator==0.2.1
+pillow==9.4.0
+streamlit==1.19.0
+jinja2==3.0.0
+opencv-python
